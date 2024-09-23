@@ -3,7 +3,9 @@
 .feedback-form {
     display: flex;
     flex-direction: column;
-
+    max-width: 408px;
+    margin: 24px auto;
+    padding: 24px;
 }
 
 .feedback-form label {
