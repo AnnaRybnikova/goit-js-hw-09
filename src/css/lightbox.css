@@ -1,0 +1,11 @@
+.simple-lightbox {
+    font-family: inherit;
+    background-color: rgba(46, 47, 66, 80%);
+}
+
+.simple-lightbox .sl-close,
+.simple-lightbox .sl-navigation button,
+.simple-lightbox .sl-counter
+{
+    color: #ffffff;
+}
