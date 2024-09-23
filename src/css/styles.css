@@ -45,8 +45,18 @@ a {
   font-style: normal;
 }
 
+input,
+textarea {
+  font-family: inherit;
+  outline: transparent;
+  
+  background-color: transparent;
+}
+
 button {
   cursor: pointer;
+  font-family: inherit;
+  border: none;
 }
 
 img {
